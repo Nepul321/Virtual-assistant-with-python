@@ -3,6 +3,8 @@ Virtual assistant with python and some python packages.
 
 To build this project you will need, install these python packages,
 
+You can use pip to install them.
+
 <ul>
 <li>
   speech_recognition, 
@@ -20,5 +22,3 @@ To build this project you will need, install these python packages,
     pyaudio
 </li>
 <ul>
-
-You can use pip to install them.
