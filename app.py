@@ -23,8 +23,8 @@ def take_command():
             voice = listener.listen(source)
             command = listener.recognize_google(voice)
             command = command.lower()
-            if 'tom' in command:
-                command = command.replace('tom', '')
+            if 'Virtual assistant' in command:
+                command = command.replace('Virtual assistant', '')
     except Exception as e:
         print("ERROR : " + str(e))
     return command
