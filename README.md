@@ -20,3 +20,5 @@ To build this project you will need, install these python packages,
     pyaudio
 </li>
 <ul>
+
+You can use pip to install them.
