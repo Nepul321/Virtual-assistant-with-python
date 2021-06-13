@@ -1,10 +1,10 @@
+#python packages
 import speech_recognition as sr
 import pyttsx3
 import pywhatkit
 from datetime import datetime
 import wikipedia
 import pyjokes
-
 
 
 listener = sr.Recognizer()
