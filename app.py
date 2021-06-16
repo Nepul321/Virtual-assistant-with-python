@@ -29,6 +29,7 @@ def take_command():
         print("ERROR : " + str(e))
     return command
 
+# making the app work
 def run_app():
     command = take_command()
     if 'play' in command:
